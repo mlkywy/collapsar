@@ -1,0 +1,15 @@
+/Users/alinasheikh/Documents/GitHub/collapsar/cc/bin/Debug/net7.0/cc
+/Users/alinasheikh/Documents/GitHub/collapsar/cc/bin/Debug/net7.0/cc.deps.json
+/Users/alinasheikh/Documents/GitHub/collapsar/cc/bin/Debug/net7.0/cc.runtimeconfig.json
+/Users/alinasheikh/Documents/GitHub/collapsar/cc/bin/Debug/net7.0/cc.dll
+/Users/alinasheikh/Documents/GitHub/collapsar/cc/bin/Debug/net7.0/cc.pdb
+/Users/alinasheikh/Documents/GitHub/collapsar/cc/obj/Debug/net7.0/cc.csproj.AssemblyReference.cache
+/Users/alinasheikh/Documents/GitHub/collapsar/cc/obj/Debug/net7.0/cc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinasheikh/Documents/GitHub/collapsar/cc/obj/Debug/net7.0/cc.AssemblyInfoInputs.cache
+/Users/alinasheikh/Documents/GitHub/collapsar/cc/obj/Debug/net7.0/cc.AssemblyInfo.cs
+/Users/alinasheikh/Documents/GitHub/collapsar/cc/obj/Debug/net7.0/cc.csproj.CoreCompileInputs.cache
+/Users/alinasheikh/Documents/GitHub/collapsar/cc/obj/Debug/net7.0/cc.dll
+/Users/alinasheikh/Documents/GitHub/collapsar/cc/obj/Debug/net7.0/refint/cc.dll
+/Users/alinasheikh/Documents/GitHub/collapsar/cc/obj/Debug/net7.0/cc.pdb
+/Users/alinasheikh/Documents/GitHub/collapsar/cc/obj/Debug/net7.0/cc.genruntimeconfig.cache
+/Users/alinasheikh/Documents/GitHub/collapsar/cc/obj/Debug/net7.0/ref/cc.dll
